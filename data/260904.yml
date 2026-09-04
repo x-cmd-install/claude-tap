@@ -7,7 +7,7 @@ about:
   head: 198ad96
   archived: false
   latestVersion: v0.1.145
-  collectedAt: 2026-09-04T20:10:34Z
+  collectedAt: 2026-09-04T20:31:28Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-08-26
@@ -85,7 +85,7 @@ total:
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/liaohch3/claude-tap
-collectedAt: 2026-09-04T20:10:44Z
+collectedAt: 2026-09-04T20:31:31Z
 loc:
   Python:
     code: 52591
