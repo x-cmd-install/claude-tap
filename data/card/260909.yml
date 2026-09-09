@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.145"
   latestRelease: "v0.1.145"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:18:57Z
+  collectedAt: 2026-09-09T20:55:14Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-08-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-16
   lastPrerelease: 
 popularity:
-  star: 3184
+  star: 3186
   watcher: 4
   fork: 277
   release: 125
@@ -87,7 +87,7 @@ total:
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/liaohch3/claude-tap
-collectedAt: 2026-09-09T06:19:05Z
+collectedAt: 2026-09-09T20:55:22Z
 loc:
   Python:
     code: 52591
