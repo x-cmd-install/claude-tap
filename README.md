@@ -7,7 +7,7 @@ Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemi
 - **Latest release**: `v0.1.145` (2026-08-16)
 - **Last commit**: 2026-08-26
 - **License**: MIT
-- **Stars**: 3184 · **Forks**: 277 · **Open issues**: 85 · **Contributors**: 34
+- **Stars**: 3186 · **Forks**: 277 · **Open issues**: 85 · **Contributors**: 34
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/claude-tap> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:19:12Z._
+_Last regenerated: 2026-09-09T20:55:27Z._
