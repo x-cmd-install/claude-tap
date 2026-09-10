@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.145"
   latestRelease: "v0.1.145"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:28:08Z
+  collectedAt: 2026-09-10T21:17:25Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-08-26
@@ -87,7 +87,7 @@ total:
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/liaohch3/claude-tap
-collectedAt: 2026-09-10T18:28:14Z
+collectedAt: 2026-09-10T21:17:33Z
 loc:
   Python:
     code: 52591

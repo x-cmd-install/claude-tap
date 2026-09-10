@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"claude-tap-git","binname":"claude-tap-git","visiblename":"claude-tap-git","version":"0.1.124.r0.gb2aa47c","origversion":"0.1.124.r0.gb2aa47c-1","status":"rolling","summary":"Trace AI CLI API requests via local reverse and forward proxies","maintainers":["orion-zhen@aur"],"licenses":["MIT"]}]
