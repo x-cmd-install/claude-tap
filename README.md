@@ -1,24 +1,63 @@
 # claude-tap
 
+[中文版本](./README.cn.md)
+
 Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 
-- **Upstream**: <https://github.com/liaohch3/claude-tap>
-- **Homepage**: <>
-- **Latest release**: `v0.1.145` (2026-08-16)
-- **Last commit**: 2026-08-26
-- **License**: MIT
-- **Stars**: 3186 · **Forks**: 277 · **Open issues**: 85 · **Contributors**: 34
+![claude-tap](https://repo.x-cmd.io/claude-tap.svg)
 
-## Installation
+## Install
 
 ```sh
 x install claude-tap
 ```
 
-See <https://x-cmd.com/install/claude-tap> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/liaohch3/claude-tap>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:55:27Z._
+- **Latest**: `v0.1.145` (2026-08-16)
+- **Last commit**: 2026-08-26
+- **Published**: 2026-08-16T12:52:42Z
+
+## Popularity
+
+- **Stars**: 3,188 · **Forks**: 277 · **Open issues**: 85 · **Contributors**: 34
+
+## Totals (cumulative)
+
+- **Releases**: 125 · **Merged PRs**: 306 · **Open PRs**: 17 · **Closed issues**: 67 · **Open issues**: 18 · **Commits**: 395
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 12 | 13 | 3 | 3 | 12 |
+| 90d | 2026-06-12 | 37 | 77 | 14 | 12 | 12 | 84 |
+| 360d | 2025-09-15 | 100 | 306 | 17 | 67 | 18 | 388 |
+
+## Code size
+
+Total: **62,489** lines of code across **144** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 52,591 | 1,079 | 8,479 | 123 |
+| JavaScript | 5,770 | 641 | 390 | 12 |
+| Css | 1,501 | 52 | 49 | 1 |
+| Json | 963 | 0 | 0 | 2 |
+| Html | 883 | 2 | 50 | 6 |
+
+## Improve this data
+
+Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-tap` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/claude-tap.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T06:24:06Z._
