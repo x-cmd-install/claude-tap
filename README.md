@@ -12,6 +12,18 @@ Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemi
 x install claude-tap
 ```
 
+## Code insight
+
+Total: **62,489** lines of code across **144** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 52,591 | 1,079 | 8,479 | 123 |
+| JavaScript | 5,770 | 641 | 390 | 12 |
+| Css | 1,501 | 52 | 49 | 1 |
+| Json | 963 | 0 | 0 | 2 |
+| Html | 883 | 2 | 50 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/liaohch3/claude-tap>
@@ -35,20 +47,11 @@ x install claude-tap
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 12 | 13 | 3 | 3 | 12 |
+| last60d | 2026-07-12 | 11 | 33 | 14 | 6 | 7 | 38 |
 | 90d | 2026-06-12 | 37 | 77 | 14 | 12 | 12 | 84 |
+| last180d | 2026-03-14 | 100 | 279 | 17 | 58 | 18 | 284 |
 | 360d | 2025-09-15 | 100 | 306 | 17 | 67 | 18 | 388 |
-
-## Code size
-
-Total: **62,489** lines of code across **144** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 52,591 | 1,079 | 8,479 | 123 |
-| JavaScript | 5,770 | 641 | 390 | 12 |
-| Css | 1,501 | 52 | 49 | 1 |
-| Json | 963 | 0 | 0 | 2 |
-| Html | 883 | 2 | 50 | 6 |
+| last720d | 2024-09-20 | 100 | 306 | 17 | 67 | 18 | 395 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:28:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:17:38Z._
