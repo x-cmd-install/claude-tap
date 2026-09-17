@@ -152,4 +152,3 @@ total:
 ---
 
 ---
-{"id":371324756,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORQz-bc4WIfdU","tag_name":"v0.1.145","target_commitish":"main","name":"v0.1.145","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-16T12:50:20Z","updated_at":"2026-08-16T12:52:42Z","published_at":"2026-08-16T12:52:42Z","assets":[],"body":"- 901b856 chore: update changelog for v0.1.145 (#439)\n- 52bb292 fix(codexapp): capture standard Responses API paths (#422)"}
