@@ -4,7 +4,7 @@
 
 Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 
-![claude-tap](https://repo.x-cmd.io/claude-tap.svg)
+[![x-cmd/install — claude-tap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-tap.svg)](https://x-cmd.com/install/claude-tap)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **62,498** lines of code across **144** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,214 · **Forks**: 279 · **Open issues**: 86 · **Contributors**: 35
+- **Stars**: 3,221 · **Forks**: 278 · **Open issues**: 88 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 307 · **Open PRs**: 17 · **Closed issues**: 67 · **Open issues**: 19 · **Commits**: 396
+- **Releases**: 125 · **Merged PRs**: 307 · **Open PRs**: 17 · **Closed issues**: 67 · **Open issues**: 21 · **Commits**: 396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 6 | 1 | 3 | 8 |
-| last60d | 2026-07-20 | 9 | 29 | 14 | 5 | 7 | 31 |
-| 90d | 2026-06-20 | 25 | 65 | 14 | 12 | 13 | 73 |
-| last180d | 2026-03-22 | 100 | 269 | 17 | 52 | 19 | 274 |
-| 360d | 2025-09-23 | 100 | 307 | 17 | 67 | 19 | 389 |
-| last720d | 2024-09-28 | 100 | 307 | 17 | 67 | 19 | 396 |
+| 30d | 2026-08-21 | 0 | 3 | 6 | 1 | 5 | 1 |
+| last60d | 2026-07-22 | 7 | 25 | 14 | 5 | 9 | 23 |
+| 90d | 2026-06-22 | 25 | 61 | 14 | 12 | 15 | 62 |
+| last180d | 2026-03-24 | 100 | 269 | 17 | 52 | 21 | 269 |
+| 360d | 2025-09-25 | 100 | 307 | 17 | 67 | 21 | 389 |
+| last720d | 2024-09-30 | 100 | 307 | 17 | 67 | 21 | 396 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:38:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:56Z._

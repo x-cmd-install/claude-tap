@@ -4,7 +4,7 @@
 
 Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 
-![claude-tap](https://repo.x-cmd.io/claude-tap.svg?lang=zh)
+[![x-cmd/install — claude-tap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-tap.svg?lang=zh)](https://x-cmd.com/install/claude-tap)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install claude-tap
 
 ## 流行度
 
-- **Star**: 3,214 · **Fork**: 279 · **开放 issue**: 86 · **贡献者**: 35
+- **Star**: 3,221 · **Fork**: 278 · **开放 issue**: 88 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 125 · **已合并 PR**: 307 · **开放 PR**: 17 · **已关闭 issue**: 67 · **开放 issue**: 19 · **提交数**: 396
+- **发布数**: 125 · **已合并 PR**: 307 · **开放 PR**: 17 · **已关闭 issue**: 67 · **开放 issue**: 21 · **提交数**: 396
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 6 | 1 | 3 | 8 |
-| last60d | 2026-07-20 | 9 | 29 | 14 | 5 | 7 | 31 |
-| 90d | 2026-06-20 | 25 | 65 | 14 | 12 | 13 | 73 |
-| last180d | 2026-03-22 | 100 | 269 | 17 | 52 | 19 | 274 |
-| 360d | 2025-09-23 | 100 | 307 | 17 | 67 | 19 | 389 |
-| last720d | 2024-09-28 | 100 | 307 | 17 | 67 | 19 | 396 |
+| 30d | 2026-08-21 | 0 | 3 | 6 | 1 | 5 | 1 |
+| last60d | 2026-07-22 | 7 | 25 | 14 | 5 | 9 | 23 |
+| 90d | 2026-06-22 | 25 | 61 | 14 | 12 | 15 | 62 |
+| last180d | 2026-03-24 | 100 | 269 | 17 | 52 | 21 | 269 |
+| 360d | 2025-09-25 | 100 | 307 | 17 | 67 | 21 | 389 |
+| last720d | 2024-09-30 | 100 | 307 | 17 | 67 | 21 | 396 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ claude-tap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:38:27Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:32:57Z._
