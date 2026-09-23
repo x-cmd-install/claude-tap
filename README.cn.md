@@ -4,7 +4,7 @@
 
 Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 
-[![x-cmd/install — claude-tap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-tap.svg?lang=zh)](https://x-cmd.com/install/claude-tap)
+[![x-cmd/install — claude-tap Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/claude-tap.svg?lang=zh)](https://x-cmd.com/install/claude-tap)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install claude-tap
 
 ## 代码洞察
 
-合计: **62,498** 行代码（覆盖前 5 种语言、共 **144** 个文件）。
+合计: **64,189** 行代码（覆盖前 5 种语言、共 **144** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 52,600 | 1,085 | 8,482 | 123 |
-| JavaScript | 5,770 | 641 | 390 | 12 |
-| Css | 1,501 | 52 | 49 | 1 |
-| Json | 963 | 0 | 0 | 2 |
+| Python | 54,050 | 1,207 | 8,626 | 123 |
+| JavaScript | 5,966 | 744 | 413 | 12 |
+| Css | 1,530 | 57 | 52 | 1 |
+| Json | 979 | 0 | 0 | 2 |
 | Html | 883 | 2 | 50 | 6 |
 
 ## 源代码
@@ -32,26 +32,26 @@ x install claude-tap
 ## 发布
 
 - **最新版本**: `v0.1.145` (2026-08-16)
-- **最近提交**: 2026-09-15
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 3,229 · **Fork**: 279 · **开放 issue**: 88 · **贡献者**: 35
+- **Star**: 3,233 · **Fork**: 280 · **开放 issue**: 88 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 125 · **已合并 PR**: 307 · **开放 PR**: 17 · **已关闭 issue**: 67 · **开放 issue**: 21 · **提交数**: 396
+- **发布数**: 125 · **已合并 PR**: 308 · **开放 PR**: 16 · **已关闭 issue**: 67 · **开放 issue**: 21 · **提交数**: 397
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 6 | 1 | 5 | 1 |
-| last60d | 2026-07-24 | 6 | 25 | 14 | 5 | 8 | 23 |
-| 90d | 2026-06-24 | 24 | 59 | 14 | 10 | 15 | 62 |
-| last180d | 2026-03-26 | 100 | 264 | 17 | 51 | 21 | 269 |
-| 360d | 2025-09-27 | 100 | 307 | 17 | 67 | 21 | 389 |
-| last720d | 2024-10-02 | 100 | 307 | 17 | 67 | 21 | 396 |
+| 30d | 2026-08-24 | 0 | 2 | 6 | 1 | 5 | 2 |
+| last60d | 2026-07-25 | 6 | 26 | 13 | 5 | 8 | 24 |
+| 90d | 2026-06-25 | 23 | 60 | 13 | 10 | 15 | 63 |
+| last180d | 2026-03-27 | 100 | 265 | 16 | 51 | 21 | 270 |
+| 360d | 2025-09-28 | 100 | 308 | 16 | 67 | 21 | 390 |
+| last720d | 2024-10-03 | 100 | 308 | 16 | 67 | 21 | 397 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ claude-tap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:52Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:45:25Z._
