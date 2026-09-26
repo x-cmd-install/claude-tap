@@ -36,7 +36,7 @@ Total: **64,189** lines of code across **144** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,236 · **Forks**: 279 · **Open issues**: 88 · **Contributors**: 35
+- **Stars**: 3,237 · **Forks**: 279 · **Open issues**: 88 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **64,189** lines of code across **144** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 1 | 4 | 0 | 5 | 2 |
-| last60d | 2026-07-27 | 6 | 19 | 13 | 5 | 8 | 24 |
-| 90d | 2026-06-27 | 23 | 58 | 13 | 9 | 15 | 63 |
-| last180d | 2026-03-29 | 100 | 265 | 16 | 51 | 21 | 270 |
-| 360d | 2025-09-30 | 100 | 308 | 16 | 67 | 21 | 390 |
-| last720d | 2024-10-05 | 100 | 308 | 16 | 67 | 21 | 397 |
+| 30d | 2026-08-27 | 0 | 1 | 2 | 0 | 3 | 2 |
+| last60d | 2026-07-28 | 5 | 18 | 13 | 5 | 8 | 24 |
+| 90d | 2026-06-28 | 22 | 57 | 13 | 9 | 15 | 63 |
+| last180d | 2026-03-30 | 100 | 265 | 16 | 51 | 21 | 270 |
+| 360d | 2025-10-01 | 100 | 308 | 16 | 67 | 21 | 390 |
+| last720d | 2024-10-06 | 100 | 308 | 16 | 67 | 21 | 397 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:17:31Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:10:45Z._
