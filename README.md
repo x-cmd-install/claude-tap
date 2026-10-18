@@ -14,11 +14,11 @@ x install claude-tap
 
 ## Code insight
 
-Total: **64,259** lines of code across **144** files in the top 5 languages.
+Total: **65,756** lines of code across **148** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 54,120 | 1,207 | 8,630 | 123 |
+| Python | 55,617 | 1,215 | 8,836 | 127 |
 | JavaScript | 5,966 | 745 | 413 | 12 |
 | Css | 1,530 | 57 | 52 | 1 |
 | Json | 979 | 0 | 0 | 2 |
@@ -31,27 +31,27 @@ Total: **64,259** lines of code across **144** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.145` (2026-08-16)
-- **Last commit**: 2026-10-10
+- **Latest**: `v0.1.146` (2026-10-17)
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 3,289 · **Forks**: 285 · **Open issues**: 89 · **Contributors**: 36
+- **Stars**: 3,289 · **Forks**: 284 · **Open issues**: 90 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 309 · **Open PRs**: 19 · **Closed issues**: 68 · **Open issues**: 21 · **Commits**: 398
+- **Releases**: 126 · **Merged PRs**: 312 · **Open PRs**: 17 · **Closed issues**: 68 · **Open issues**: 22 · **Commits**: 401
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 1 | 3 | 0 | 3 | 2 |
-| last60d | 2026-08-18 | 0 | 8 | 9 | 1 | 6 | 11 |
-| 90d | 2026-07-19 | 10 | 32 | 16 | 5 | 10 | 37 |
-| last180d | 2026-04-20 | 100 | 262 | 19 | 51 | 21 | 268 |
-| 360d | 2025-10-22 | 100 | 309 | 19 | 68 | 21 | 391 |
-| last720d | 2024-10-27 | 100 | 309 | 19 | 68 | 21 | 398 |
+| 30d | 2026-09-18 | 1 | 3 | 2 | 0 | 2 | 4 |
+| last60d | 2026-08-19 | 1 | 7 | 8 | 1 | 7 | 9 |
+| 90d | 2026-07-20 | 10 | 34 | 14 | 5 | 11 | 34 |
+| last180d | 2026-04-21 | 100 | 264 | 17 | 51 | 22 | 267 |
+| 360d | 2025-10-23 | 100 | 312 | 17 | 68 | 22 | 394 |
+| last720d | 2024-10-28 | 100 | 312 | 17 | 68 | 22 | 401 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:37:58Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:46:37Z._
