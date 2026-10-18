@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/liaohch3/claude-tap/releases/371324756",
-  "assets_url": "https://api.github.com/repos/liaohch3/claude-tap/releases/371324756/assets",
-  "upload_url": "https://uploads.github.com/repos/liaohch3/claude-tap/releases/371324756/assets{?name,label}",
-  "html_url": "https://github.com/liaohch3/claude-tap/releases/tag/v0.1.145",
-  "id": 371324756,
+  "url": "https://api.github.com/repos/liaohch3/claude-tap/releases/415878231",
+  "assets_url": "https://api.github.com/repos/liaohch3/claude-tap/releases/415878231/assets",
+  "upload_url": "https://uploads.github.com/repos/liaohch3/claude-tap/releases/415878231/assets{?name,label}",
+  "html_url": "https://github.com/liaohch3/claude-tap/releases/tag/v0.1.146",
+  "id": 415878231,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORQz-bc4WIfdU",
-  "tag_name": "v0.1.145",
+  "node_id": "RE_kwDORQz-bc4YycxX",
+  "tag_name": "v0.1.146",
   "target_commitish": "main",
-  "name": "v0.1.145",
+  "name": "v0.1.146",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-16T12:50:20Z",
-  "updated_at": "2026-08-16T12:52:42Z",
-  "published_at": "2026-08-16T12:52:42Z",
+  "created_at": "2026-10-17T15:20:02Z",
+  "updated_at": "2026-10-17T15:22:36Z",
+  "published_at": "2026-10-17T15:22:24Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/liaohch3/claude-tap/tarball/v0.1.145",
-  "zipball_url": "https://api.github.com/repos/liaohch3/claude-tap/zipball/v0.1.145",
-  "body": "- 901b856 chore: update changelog for v0.1.145 (#439)\n- 52bb292 fix(codexapp): capture standard Responses API paths (#422)"
+  "tarball_url": "https://api.github.com/repos/liaohch3/claude-tap/tarball/v0.1.146",
+  "zipball_url": "https://api.github.com/repos/liaohch3/claude-tap/zipball/v0.1.146",
+  "body": "## English\n\n### Changed\n\n- Compute viewer costs using the Python pricing adapter.\n- Explain prompt cache misses in the viewer turn detail.\n- Distinguish harness-injected input from human prompts when displaying conversation titles.\n- Flag tool results large enough to dominate a conversation turn.\n\n### Fixed\n\n- Fix Dashboard records and HTML viewer HTTP 500 errors caused by `urlsplit()` `ValueError`, hiding the affected display strings and response text previews while retaining stored captures.\n- Ignore object key order in viewer parameter diffs and sort displayed JSON to highlight actual value changes.\n- Preserve wrapped-client stdout for every mode by routing claude-tap operational output to stderr.\n- Capture Anthropic-protocol requests (`/v1/messages`) when dsh uses an Anthropic provider.\n- Avoid double-counting cached input tokens in dashboard session totals.\n\n## 简体中文\n\n### 变更\n\n- 使用 Python 定价适配器计算查看器中的费用。\n- 在查看器的轮次详情中解释提示缓存未命中的原因。\n- 展示会话标题时区分工具框架注入的内容和用户提示。\n- 标记占据会话轮次大量内容的工具结果。\n\n### 修复\n\n- 修复 `urlsplit()` 抛出 `ValueError` 导致 Dashboard 记录接口和 HTML 查看器返回 HTTP 500 的问题；隐藏受影响的展示文本和预览，保留存储的原始记录。\n- 参数差异比较忽略对象键顺序，并对展示的 JSON 排序以突出实际值变化。\n- 将 claude-tap 的运行提示输出到 stderr，确保各模式均保留被包装客户端的 stdout。\n- dsh 使用 Anthropic 供应商时抓取 Anthropic 协议请求（`/v1/messages`）。\n- 避免 Dashboard 会话 token 总数重复计算缓存输入。\n"
 }
