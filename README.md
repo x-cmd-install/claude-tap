@@ -14,11 +14,11 @@ x install claude-tap
 
 ## Code insight
 
-Total: **65,856** lines of code across **149** files in the top 5 languages.
+Total: **66,051** lines of code across **150** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 55,717 | 1,213 | 8,851 | 128 |
+| Python | 55,912 | 1,213 | 8,866 | 129 |
 | JavaScript | 5,966 | 745 | 413 | 12 |
 | Css | 1,530 | 57 | 52 | 1 |
 | Json | 979 | 0 | 0 | 2 |
@@ -32,26 +32,26 @@ Total: **65,856** lines of code across **149** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.146` (2026-10-17)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 3,344 · **Forks**: 290 · **Open issues**: 92 · **Contributors**: 37
+- **Stars**: 3,343 · **Forks**: 290 · **Open issues**: 92 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 314 · **Open PRs**: 20 · **Closed issues**: 69 · **Open issues**: 23 · **Commits**: 403
+- **Releases**: 126 · **Merged PRs**: 315 · **Open PRs**: 19 · **Closed issues**: 69 · **Open issues**: 23 · **Commits**: 404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 2 | 4 | 1 | 1 | 1 |
-| last60d | 2026-09-17 | 1 | 5 | 5 | 1 | 5 | 6 |
-| 90d | 2026-08-18 | 1 | 12 | 11 | 2 | 8 | 13 |
-| last180d | 2026-05-20 | 72 | 169 | 19 | 34 | 21 | 159 |
-| 360d | 2025-11-21 | 100 | 314 | 20 | 69 | 23 | 396 |
-| last720d | 2024-11-26 | 100 | 314 | 20 | 69 | 23 | 403 |
+| 30d | 2026-10-18 | 0 | 3 | 3 | 1 | 1 | 2 |
+| last60d | 2026-09-18 | 1 | 6 | 4 | 1 | 3 | 7 |
+| 90d | 2026-08-19 | 1 | 10 | 10 | 2 | 8 | 14 |
+| last180d | 2026-05-21 | 72 | 170 | 18 | 33 | 20 | 160 |
+| 360d | 2025-11-22 | 100 | 315 | 19 | 69 | 23 | 397 |
+| last720d | 2024-11-27 | 100 | 315 | 19 | 69 | 23 | 404 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-tap lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:54:08Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:50:39Z._
